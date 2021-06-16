@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "categoryName": "Category 1",
+        "children": [
+            {
+                "id": 2,
+                "categoryName": "Category 2",
+                "children": [
+                    {
+                        "id": 3,
+                        "categoryName": "Category 3",
+                        "children": [
+                            {
+                                "id": 4,
+                                "categoryName": "Category 4",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "categoryName": "Category 5",
+                "children": [
+                    {
+                        "id": 6,
+                        "categoryName": "Category 6",
+                        "children": [
+                            {
+                                "id": 7,
+                                "categoryName": "Category 7",
+                                "children": []
+                            },
+                            {
+                                "id": 8,
+                                "categoryName": "Category 8",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "categoryName": "Category 9",
+        "children": [
+            {
+                "id": 10,
+                "categoryName": "Category 10",
+                "children": [
+                    {
+                        "id": 11,
+                        "categoryName": "Category 11",
+                        "children": [
+                            {
+                                "id": 12,
+                                "categoryName": "Category 12",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 13,
+                "categoryName": "Category 13",
+                "children": [
+                    {
+                        "id": 14,
+                        "categoryName": "Category 14",
+                        "children": [
+                            {
+                                "id": 15,
+                                "categoryName": "Category 15",
+                                "children": []
+                            },
+                            {
+                                "id": 16,
+                                "categoryName": "Category 16",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
